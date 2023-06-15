@@ -26,7 +26,7 @@ const books = [
   },
   {
     title: 'Forge Your Future',
-    imageUrl: require('./images/forge your future1.webp'),
+    imageUrl: require('./images/forge your future1.jpg'),
     link: 'https://www.amazon.in/Forge-Future-P-J-Abdul-Kalam/dp/9350642794'
   }
 ];
